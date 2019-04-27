@@ -1,2 +1,2 @@
 # treehouse2
-HMTL 02
+Second lesson of HTML
