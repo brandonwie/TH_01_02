@@ -1,2 +1,2 @@
-# treehouse2
+# treehouse_02
 Second lesson of HTML
